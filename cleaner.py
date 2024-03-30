@@ -9,10 +9,10 @@ months = {'01': 'January', '02': 'February', '03': 'March', '04': 'April', '05':
           '06': 'June', '07': 'July', '08': 'August', '09': 'September','10': 'October', 
           '11': 'November', '12': 'December'}
 
-# creates folder if it doesn't exist already
+# creates screenshot folder if it doesn't exist already
 if not os.path.exists(screenshot_dir):
     os.makedirs(screenshot_dir)
-    print('Created folder ...')
+    print('Created folder ss')
 
 # checks for screenshots specifically
 files_ond_desktop = os.listdir(desktop_dir)
