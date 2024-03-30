@@ -35,7 +35,7 @@ python cleaner.py
 
 Repository
 ```bash
-# replace 'justin' with your user
+# replace 'justin' with your user and inside the code
 cd /Users/justin/vscode/Desktop_Screenshot_Cleaner
 python cleaner.py
 ```
